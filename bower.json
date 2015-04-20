@@ -1,0 +1,27 @@
+{
+  "name": "angular-eha.focus-on-invalid",
+  "description": "on form submit, focus the first invalid input",
+  "version": "0.0.0",
+  "authors": [
+    "danse <francesco.occhipinti@ehealthnigeria.org>"
+  ],
+  "moduleType": [
+    "globals",
+    "node"
+  ],
+  "homepage": "https://github.com/eHealthAfrica/eha.retriable",
+  "keywords": "validation",
+  "main": "dist/focus-on-invalid.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eHealthAfrica/angular-eha.focus-on-invalid.git"
+  },
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
