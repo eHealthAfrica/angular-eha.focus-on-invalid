@@ -1,6 +1,6 @@
 # angular-eha.focus-on-invalid
 
-[![Build Status](https://travis-ci.org/eHealthAfrica/focus-on-invalid.svg)](https://travis-ci.org/eHealthAfrica/focus-on-invalid)
+[![Build Status](https://travis-ci.org/eHealthAfrica/angular-eha.focus-on-invalid.svg)](https://travis-ci.org/eHealthAfrica/angular-eha.focus-on-invalid)
 
 ## Usage
 
