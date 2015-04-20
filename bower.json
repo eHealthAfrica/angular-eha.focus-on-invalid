@@ -1,7 +1,7 @@
 {
   "name": "angular-eha.focus-on-invalid",
   "description": "on form submit, focus the first invalid input",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "authors": [
     "danse <francesco.occhipinti@ehealthnigeria.org>"
   ],

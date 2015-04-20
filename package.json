@@ -1,6 +1,6 @@
 {
   "name": "angular-eha.focus-on-invalid",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "on form submit, focus the first invalid input",
   "main": "dist/focus-on-invalid.js",
   "scripts": {
