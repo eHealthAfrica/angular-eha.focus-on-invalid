@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.org/eHealthAfrica/angular-eha.focus-on-invalid.svg)](https://travis-ci.org/eHealthAfrica/angular-eha.focus-on-invalid)
 
+An Angular directive to focus the first invalid element on form submit.
+
 ## Usage
 
 ## Installation
@@ -21,6 +23,18 @@ Or alternatively bower:
 
 
 Then simply add `eha.focus-on-invalid` as dependencies somewhere in your project that makes sense and you're good to go.
+
+### Example
+
+```html
+<form name="longForm" eha-focus-on-invalid>
+  <input type="text">
+  <p>
+    This is a very long form
+  </p>
+  <input type="submit" />
+</form>
+```
 
 #### A note on wiredep
 
