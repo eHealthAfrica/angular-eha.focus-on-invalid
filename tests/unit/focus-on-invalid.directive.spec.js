@@ -13,7 +13,7 @@ describe('eha.focus-on-invalid.directive', function() {
 
   it('triggers focus on invalid inputs on submit', inject(function($compile) {
     element = angular.element(
-      '<form focus-on-invalid>' +
+      '<form eha-focus-on-invalid>' +
       '  <input class="ng-invalid">' +
       '</form>'
     );
